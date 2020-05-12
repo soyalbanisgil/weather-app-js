@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <svg id="Waterdrop" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="52" viewBox="0 0 36 52">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Oval_91" data-name="Oval 91" d="M18,52c9.941,0,18-8.315,18-18.571S18,0,18,0,0,23.172,0,33.429,8.059,52,18,52Z" fill="#227fbb"/>
+    </clipPath>
+  </defs>
+  <path id="Oval_91-2" data-name="Oval 91" d="M18,52c9.941,0,18-8.315,18-18.571S18,0,18,0,0,23.172,0,33.429,8.059,52,18,52Z" fill="#227fbb"/>
+  <g id="Waterdrop-2" data-name="Waterdrop" clip-path="url(#clip-path)">
+    <path id="Oval_91-3" data-name="Oval 91" d="M18,52c9.941,0,18-8.315,18-18.571S18,0,18,0,0,23.172,0,33.429,8.059,52,18,52Z" transform="translate(4 -2)" fill="#2c97de"/>
+    <ellipse id="Oval_93" data-name="Oval 93" cx="3" cy="5" rx="3" ry="5" transform="translate(28 28)" fill="rgba(255,255,255,0.35)"/>
+    <circle id="Oval_94" data-name="Oval 94" cx="2" cy="2" r="2" transform="translate(28 22)" fill="rgba(255,255,255,0.35)"/>
+  </g>
+</svg>
